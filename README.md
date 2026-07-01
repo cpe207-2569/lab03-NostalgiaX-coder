@@ -10,4 +10,4 @@
 
 - ชื่อ-สกุล: เศรษฐวุฒิ สมาเกตุ
 - รหัสนักศึกษา: 680610725
-- <strong>GITHUB PAGE URL : </strong>
+- <strong>GITHUB PAGE URL :https://github.com/cpe207-2569/lab03-NostalgiaX-coder </strong>
